@@ -1,0 +1,4 @@
+http://localhost {
+    respond "Hello, world!"
+}
+
